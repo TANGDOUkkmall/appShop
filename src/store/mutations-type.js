@@ -1,0 +1,8 @@
+export const ADD_GOODS='ADD_GOODS'//添加商品到购物车
+export const INIT_SHOP_CART='INIT_SHOP_CART'//初始化
+export const REDUCE_CART='REDUCE_CART'//初始化
+export const SELECTED_SINGER_GOODS="SELECTED_SINGER_GOODS"
+export const SELECTED_ALL_GOODS="SELECTED_ALL_GOODS"
+export const CLEAR_CART="CLEAR_CART"
+
+
